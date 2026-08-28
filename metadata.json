@@ -1,0 +1,6 @@
+{
+  "name": "Centro Médico Integrado Plennus",
+  "description": "Sistema completo e seguro de gestão clínica com PEP, SOAP, módulo de Termo de Consentimento Livre e Esclarecido (TCLE) com assinatura no tablet, enfermagem, protocolos inteligentes, financeiro e governança SoD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
